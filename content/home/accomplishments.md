@@ -30,7 +30,7 @@ date_format = "Jan 2006"
 
 [[item]]
   organization = "DataCamp"
-  organization_url = https://learn.datacamp.com/courses/intermediate-python-for-data-science
+  organization_url = "https://learn.datacamp.com/courses/intermediate-python-for-data-science""
   title = "Intermediate Python"
   url = ""
   certificate_url = "https://www.datacamp.com"
