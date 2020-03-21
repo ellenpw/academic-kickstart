@@ -34,7 +34,12 @@ subtitle = ""
 
 [[feature]]
   icon = "om"
-  icon_pack = "fab"
+  icon_pack = "fas"
   name = "Certified Yoga Instructor"
+  
+[[feature]]
+  icon = "microsoft"
+  icon_pack = "fab"
+  name = "Microsoft Office"
 
 +++
