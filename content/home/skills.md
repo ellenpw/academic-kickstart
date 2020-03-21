@@ -41,5 +41,10 @@ subtitle = ""
   icon = "microsoft"
   icon_pack = "fab"
   name = "Microsoft Office"
+  
+[[feature]]
+  icon = "blogger"
+  icon_pack = "fab"
+  name = "Shiny Dashboards"
 
 +++
