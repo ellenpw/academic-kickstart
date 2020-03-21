@@ -32,4 +32,9 @@ subtitle = ""
   name = "Python"
 #  description = "10%"
 
+[[feature]]
+  icon = "om"
+  icon_pack = "fab"
+  name = "Certified Yoga Instructor"
+
 +++
