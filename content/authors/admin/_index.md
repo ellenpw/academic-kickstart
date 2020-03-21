@@ -23,6 +23,7 @@ bio: Data Enthusiast with a Marketing Focus
 interests:
 - Machine Learning 
 - Earned Media 
+- Data Visualization
 - Health, Wellness & Fitness
 
 education:
@@ -67,6 +68,5 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Ellen Walsh is a MSBA student at the University of California, San Diego with a background in marketing and strong interest in health and fitness. Through this program she has developed skills in SQL, R, Python, Tableau, and Microsoft to effectively collect, strategically analyze, visualize, report, and explain data. She is currently seeking a Business / Digital Analyst role. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
