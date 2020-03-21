@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Ellen Walsh
 
 # Username (this should match the folder name)
 authors:
@@ -10,29 +10,29 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Master's of Business Analytics Student
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: University of California, San Diego
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Data Enthusiast with a Marketing Focus 
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Machine Learning 
+- Earned Media 
+- Health, Wellness & Fitness
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
+  - course: MS in Business Analytics
+    institution: University of California, San Diego 
+    year: 2020
+  - course: BS in Marketing & Business Analytics 
+    institution: University of Kansas
+    year: 2019
   - course: BSc in Artificial Intelligence
     institution: Massachusetts Institute of Technology
     year: 2008
