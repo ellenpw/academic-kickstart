@@ -42,7 +42,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: '#contact'  # For a direct email link, use "mailto:ellenpatricewalsh@gmail.com".
 - icon: linkedin-in
   icon_pack: fab
   link: https://www.linkedin.com/in/ellen-patrice-walsh/

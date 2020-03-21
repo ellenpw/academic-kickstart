@@ -19,33 +19,33 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
+  organization = "DataCamp"
+  organization_url = "https://learn.datacamp.com/courses/building-dashboards-with-shinydashboard"
+  title = "Building Dashboards with shinydashboard"
   url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
-  date_end = ""
-  description = ""
+  certificate_url = "https://www.datacamp.com"
+  date_start = "2019-12-01"
+  date_end = "2019-12-30"
+  description = "Dashboards, a common data science deliverable, are pages that collate information, often tracking metrics from a live-updating data source."
 
 [[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
-  date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
+  organization = "DataCamp"
+  organization_url = https://learn.datacamp.com/courses/intermediate-python-for-data-science
+  title = "Intermediate Python"
+  url = ""
+  certificate_url = "https://www.datacamp.com"
+  date_start = "2019-07-07"
+  date_end = "2019-07-27"
+  description = "Learning Python is crucial for any aspiring data science practitioner. Learn to visualize real data with Matplotlib's functions and get acquainted with data structures such as the dictionary and the pandas DataFrame. After covering key concepts such as boolean logic, control flow, and loops in Python, you'll be ready to blend together everything you've learned to solve a case study using hacker statistics."
   
 [[item]]
   organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
+  organization_url = "https://learn.datacamp.com/courses/extreme-gradient-boosting-with-xgboost"
+  title = "Extreme Gradient Boosting with XGBoost"
   url = ""
   certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
-  description = ""
+  date_start = "2019-01-01"
+  date_end = "2019-01-21"
+  description = "Gradient boosting is currently one of the most popular techniques for efficient modeling of tabular datasets of all sizes. XGboost is a very fast, scalable implementation of gradient boosting, with models using XGBoost regularly winning online data science competitions and being used at scale across different industries."
 
 +++
