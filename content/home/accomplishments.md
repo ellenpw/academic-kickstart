@@ -40,10 +40,10 @@ date_format = "Jan 2006"
   
 [[item]]
   organization = "DataCamp"
-  organization_url = "https://learn.datacamp.com/courses/extreme-gradient-boosting-with-xgboost"
+  organization_url = "https://www.datacamp.com"
   title = "Extreme Gradient Boosting with XGBoost"
   url = ""
-  certificate_url = "https://www.datacamp.com"
+  certificate_url = "https://learn.datacamp.com/courses/extreme-gradient-boosting-with-xgboost"
   date_start = "2020-01-01"
   date_end = "2020-01-21"
   description = ""
