@@ -18,13 +18,13 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Vice President, Marketing & Communications and Co-Founder"
+  company = "Rady Data Collaborative"
   company_url = ""
-  location = "California"
+  location = "La Jolla, California"
   date_start = "2017-01-01"
   date_end = ""
-  description = """
+  description = """ The Rady Data Collaborative delivers value to both companies and students by facilitating industry projects. Our goal is to provide sustained and measurable impact on the San Diego business community through data-driven insights and collaboration, and simultaneously administering industry experience to Rady's MSBA students. """
   Responsibilities include:
   
   * Analysing
