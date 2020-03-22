@@ -34,7 +34,7 @@ date_format = "Jan 2006"
   company_url = "https://atginfo.com/"
   location = "St. Louis, MO"
   date_start = "2018-06-01"
-  date_end = "2016-08-31"
+  date_end = "2018-08-31"
   description = """
   Responsibilities Included:
   *	Analyzed company-wide social media use via Bonfyre’s platform and enhanced engagement throughout the US 
@@ -44,4 +44,18 @@ date_format = "Jan 2006"
   * Compiled and prioritized information for the sitemap of ATG’s new website 
   """
 
+[[experience]]
+  title = "Sales Support Intern"
+  company = "DST Systems"
+  company_url = "https://www.ssctech.com/"
+  location = "Kansas City, MO"
+  date_start = "2017-05-30"
+  date_end = "2017-08-17"
+  description = """
+  Responsibilities Included:
+  *	Edited RFPs sent in by new and returning clients for various products 
+  *	Conducted research on young talent retention and presented to the Financial Services Department
+  * “Team Lead” for the Intern Accountability Group training on agile fundamentals 
+  * Organized and routed the Sales Team’s accounts, leads, and opportunities in Salesforce
+  """
 +++
