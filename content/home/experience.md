@@ -19,9 +19,9 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "President & Co-Founder"
-  company = "GenCoin"
+  company = "Rady Data Collabortive"
   company_url = ""
-  location = "La Jolla, California"
+  location = "La Jolla, CA"
   date_start = "2019-11-01"
   date_end = ""
   description = """
@@ -29,12 +29,19 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Marketing & Operations Intern"
+  company = "The Advanced Technology Group"
+  company_url = "https://atginfo.com/"
+  location = "St. Louis, MO"
+  date_start = "2018-06-01"
+  date_end = "2016-08-31"
+  description = """
+  Responsibilities Included:
+  *	Analyzed company-wide social media use via Bonfyre’s platform and enhanced engagement throughout the US 
+  *	Created and executed a business plan to amplify the junior candidate pipeline 
+  *	Conducted market research to visualize the company’s KPIs and retention rates compared to the industry
+  * Performed lead generation, compiled potential leads, and presented them to the VP of Marketing, CEO, and Sales Reps
+  * Compiled and prioritized information for the sitemap of ATG’s new website 
+  """
 
 +++
