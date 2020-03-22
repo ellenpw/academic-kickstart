@@ -46,6 +46,6 @@ date_format = "Jan 2006"
   certificate_url = "https://learn.datacamp.com/courses/extreme-gradient-boosting-with-xgboost"
   date_start = "2020-01-01"
   date_end = "2020-01-21"
-  description = ""
+  description = "Gradient boosting is currently one of the most popular techniques for efficient modeling of tabular datasets of all sizes. XGboost is a very fast, scalable implementation of gradient boosting, with models using XGBoost regularly winning online data science competitions and being used at scale across different industries."
 
 +++
