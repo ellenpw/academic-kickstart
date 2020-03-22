@@ -29,14 +29,14 @@ date_format = "Jan 2006"
   description = ""
 
 [[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
+  organization = "Datacamp"
+  organization_url = "https://www.datacamp.com"
+  title = "Building Dashboards with shinydashboard"
+  url = ""
+  certificate_url = "https://learn.datacamp.com/courses/building-dashboards-with-shinydashboard"
+  date_start = "2019-12-01"
   date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
+  description = "Dashboards, a common data science deliverable, are pages that collate information, often tracking metrics from a live-updating data source. This course allows you to gain more expertise using shiny while learning to build and design these dynamic dashboards. In the process, you'll pick up tips to optimize performance as well as best practices to create a visually appealing product."
   
 [[item]]
   organization = "DataCamp"
