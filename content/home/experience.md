@@ -58,4 +58,15 @@ date_format = "Jan 2006"
   * “Team Lead” for the Intern Accountability Group training on agile fundamentals 
   * Organized and routed the Sales Team’s accounts, leads, and opportunities in Salesforce
   """
+  
+  [[experience]]
+  title = "Writing Coach & Communication Specialist"
+  company = "University of Kansas Business School"
+  company_url = "https://business.ku.edu/services/business-communication-center"
+  location = "Lawrence, KS"
+  date_start = "2016-08-30"
+  date_end = "2019-05-17"
+  description = """
+  I coached students on written assignments, both technical and non-technical, assigned through the KU Business School. I focused heavily on proper grammar, concise yet meaningful explanations, and clearly outlining only imperative information. I further developed and enhanced the writing skills of English as a second language (ESL) students. I helped both individuals and groups, on their reports and presentations. 
+  """
 +++
