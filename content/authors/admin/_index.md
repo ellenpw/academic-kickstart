@@ -22,6 +22,7 @@ bio: Data Enthusiast with a Marketing Focus
 
 interests:
 - Machine Learning 
+- Recommendation Systems
 - Earned Media 
 - Data Visualization
 - Health, Wellness & Fitness
